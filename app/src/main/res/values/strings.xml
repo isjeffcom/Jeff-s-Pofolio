@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">isJeffcom</string>
+
+
+    //Navigation Bar
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    //Side
+    <string name="sideTitleBig">Jeffs Portfolio</string>
+    <string name="sideTitleSmall">This is Jeff Personal Website</string>
+    <string name="sidelogin">Login</string>
+    <string name="sideshare">Share</string>
+    <string name="sideins">Instagram</string>
+    <string name="sideuicn">UIcn</string>
+
+    //Settings
+    <string name="action_settings">Open in Bowser</string>
+</resources>
